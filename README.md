@@ -6,7 +6,7 @@ Here we describe the calculation of Indicator 15.3.1, which is related to **Sust
 
 **Land Cover Change Sub-Indicator**: The second sub-indicator, Land Cover Change, relies on classification maps that depict the crops in Ukraine. These maps are based on research conducted by the Space Research Institute of the National Academy of Sciences of Ukraine and the State Space Agency of Ukraine. The process involves creating maps that show the migration of land cover from one class to another, indicating changes in land use and vegetation cover.
 
-**Soil Organic Change Sub-Indicator: The third sub-indicator, Soil Organic Change, deals with changes in soil organic content. The text mentions that there were challenges in obtaining adequate data for this sub-indicator. However, the space research team was able to develop a new approach to address this issue and published an article on their methodology.
+**Soil Organic Change Sub-Indicator**: The third sub-indicator, Soil Organic Change, deals with changes in soil organic content. The text mentions that there were challenges in obtaining adequate data for this sub-indicator. However, the space research team was able to develop a new approach to address this issue and published an article on their methodology.
 
 **Merging Sub-Indicators**: After calculating and assessing these three sub-indicators (Productivity, Land Cover Change, Soil Organic Change), they are merged into a single degradation map for Ukraine. This map likely provides a comprehensive view of land degradation and environmental changes based on the data and analysis from the three sub-indicators.
 
